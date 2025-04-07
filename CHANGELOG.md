@@ -1,5 +1,12 @@
-
 ASET Consolidated Props Pack by Alexustas, adopted by Stone Blue
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Unreleased
+
+- Changes:
+
+  - Added NEEDS clauses where necessary to avoid initialization errors when certain mods are not installed
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -18,6 +25,7 @@ ASET Consolidated Props Pack by Alexustas, adopted by Stone Blue
   - Add new scifi yoke prop (thanks @SMAEL)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## v2.0.4 - 2023-04-13
 
@@ -78,6 +86,7 @@ ASET Consolidated Props Pack by Alexustas, adopted by Stone Blue
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 ## v2.0.3 - Hotfix for MAS - 2023-03-10
 
 - Changes:
@@ -85,6 +94,7 @@ ASET Consolidated Props Pack by Alexustas, adopted by Stone Blue
   - Revert change to bg02.png texture. Its referenced by some MAS MFDs
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## v2.0.2 - 2023-03-03
 
@@ -106,6 +116,7 @@ ASET Consolidated Props Pack by Alexustas, adopted by Stone Blue
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 ## v2.0.1 - 2023-02-19
 
 - Changes:
@@ -118,13 +129,14 @@ ASET Consolidated Props Pack by Alexustas, adopted by Stone Blue
   - Point download link in .version file to spacedock
   - Fix URLs in version file
   - Add some :NEEDS tags to MFDs for plugins
-  
+
   by StoneBlue
   - Added .blends from some of the new MAS props
   - Added Flashlight prop .blend
   - Moved Flashlight prop license to created LICENSE.md
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## v2.0.0 - 2023-02-11
 
@@ -137,13 +149,15 @@ ASET Consolidated Props Pack by Alexustas, adopted by Stone Blue
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 ## v1.9.1 - 2023-02-07
 
 - Changes:
 
   -Fix README
-  
----------------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## v1.9.0 - 2023-02-07
 
@@ -166,6 +180,7 @@ Once changes to actual mod content start, versioning will go to v2.0.x
 # Below is original changelog from alexustas' last v1.5 release
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## v1.5 - 26/11/2017
 
@@ -192,8 +207,9 @@ Apollo and Space Shuttle programs, as well as switches used by Boeing.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 ## v1.4 - 08/02/2017
- 
+
 - What is changed:
 
   * Almost all props were rebuilt due to the migration to Unity5, and also for the possibility to use new RPM features
@@ -235,15 +251,15 @@ Apollo and Space Shuttle programs, as well as switches used by Boeing.
   - Full set of the mechanical (aka  "barber pole") and warning light indicators ("low charge", "low fuel" etc)
   - Full set of the push-buttons (RetroButton) for all basic functions (custom groups, SAS modes etc)
   - The new navigation complex (ASET_IMP & ASET_IMP_LAT-LONG_GAUGE) with the dedicated mode selector, made after the
-       Soviet navigation complex for the “Vostok” and “Voskhod” programs
+       Soviet navigation complex for the Vostok and Voskhod programs
   - Emergency Radio Beacon (RecoveryBeacon)
   - Advanced control and indication of the engine, electrical systems, landing gear and indication of temperature
   - New props for the indication of WARP-mode
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-21/07/2015
 
-v1.3
+
+## v1.3 - 21/07/2015
 
 All props working algorithms was reworked to match the last RPM 0.21.
 Now all instruments stop working if the g-force is higher than 8 g (with dramatical flickering animation)
@@ -269,4 +285,3 @@ Now all instruments stop working if the g-force is higher than 8 g (with dramati
   - New Landing page, look at the [User Manual](https://www.dropbox.com/s/1e2lsx92z5uxt1z/LandingScreenManual.pdf?dl=0) for additional info
   - New Graphs page
   - PFD was optimised for RPM 0.21
-  
