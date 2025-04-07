@@ -2,9 +2,12 @@
 ASET Consolidated Props Pack by Alexustas, adopted by Stone Blue
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-2023-11-08
 
-v2.0.7
+# Below are changes from StoneBlue's adoption
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## v2.0.7 - 2023-11-08
 
 - Changes:
 
@@ -16,9 +19,7 @@ v2.0.7
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-2023-04-13
-
-v2.0.4
+## v2.0.4 - 2023-04-13
 
 - Changes:
 
@@ -76,18 +77,16 @@ v2.0.4
 		- Added missing "/" in comment in swTumbler_V3_ThrustReverser.cfg
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-2023-03-10
 
-v2.0.3 - Hotfix for MAS
+## v2.0.3 - Hotfix for MAS - 2023-03-10
 
 - Changes:
 
   - Revert change to bg02.png texture. Its referenced by some MAS MFDs
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-2023-03-03
 
-v2.0.2
+## v2.0.2 - 2023-03-03
 
 - Changes:
 
@@ -106,9 +105,8 @@ v2.0.2
      - Fixed typo in On_CHATTERER_ON.cfg
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-2023-02-19
 
-v2.0.1
+## v2.0.1 - 2023-02-19
 
 - Changes:
 
@@ -127,9 +125,8 @@ v2.0.1
   - Moved Flashlight prop license to created LICENSE.md
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-2023-02-11
 
-v2.0.0
+## v2.0.0 - 2023-02-11
 
 - Changes:
 
@@ -139,18 +136,16 @@ v2.0.0
   - Released on SpaceDock & CKAN
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-2023-02-07
 
-v1.9.1
+## v1.9.1 - 2023-02-07
 
 - Changes:
 
   -Fix README
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-2023-02-07
 
-v1.9.0
+## v1.9.0 - 2023-02-07
 
 Initial adoption Release by Stone Blue
 Since this is an initial adoption release, NO changes are made to the content, OTHER than those listed below.
@@ -168,12 +163,11 @@ Once changes to actual mod content start, versioning will go to v2.0.x
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-*****  Below is original changelog from alexustas' last v1.5 release ****
+# Below is original changelog from alexustas' last v1.5 release
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-26/11/2017
 
-v1.5
+## v1.5 - 26/11/2017
 
 Two new, fully modular and adjustable prop types were added: "Modular Toggle Switch" and "Modular Push Button".
 With them, it is possible to create many different switches, both in form and in function.
@@ -197,9 +191,8 @@ Apollo and Space Shuttle programs, as well as switches used by Boeing.
   * Added configs for Primitive_TRIANGLE_90 and Primitive_TRIANGLE_90_Beveled Fixes for many other props.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-08/02/2017
 
-v1.4
+## v1.4 - 08/02/2017
  
 - What is changed:
 
@@ -276,3 +269,4 @@ Now all instruments stop working if the g-force is higher than 8 g (with dramati
   - New Landing page, look at the [User Manual](https://www.dropbox.com/s/1e2lsx92z5uxt1z/LandingScreenManual.pdf?dl=0) for additional info
   - New Graphs page
   - PFD was optimised for RPM 0.21
+  

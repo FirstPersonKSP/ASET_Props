@@ -1,9 +1,6 @@
 
 ASET Consolidated Props Pack by Alexustas, adopted by Stone Blue
 
-Forum thread for questions, comments, bug reporting and suggestions:
-https://forum.kerbalspaceprogram.com/index.php?/topic/211905-1125-181-aset-consolidated-avionics-props-iva-packs/
-
 "ASET Props" by Alexustas is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 More info: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
